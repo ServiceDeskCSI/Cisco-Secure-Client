@@ -20,6 +20,9 @@ Disallow: /*/*/watchers
 Disallow: /*/*/network
 Disallow: /*/*/graphs
 Disallow: /*/*/compare
+Disallow: /*/*/releases
+Disallow: /*/*/releases/tag/*
+Disallow: /*/*/releases/download
 
 Disallow: /*/tree/
 Disallow: /gist/
